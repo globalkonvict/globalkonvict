@@ -16,7 +16,7 @@ During my college years and even before that since 2017, I also continuously lea
 - I learn quickly due to extreme dynamism and previous experience I can keep code quality nice and clean.
 - I have a love for sharing and teaching new concept and breaking down hard topics for others to understand.
 - Continuous learning and practice to keep myself fresh.
-- I do JS Daily.
+- I do JS Daily and read tech articles to stay up to date.
 
 ### Find out more about me & feel free to connect with me here:
 

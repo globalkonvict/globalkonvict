@@ -18,15 +18,16 @@ During my college years and even before that since 2017, I also continuously lea
 - Continuous learning and practice to keep myself fresh.
 - I do JS Daily and read tech articles to stay up to date.
 
-### Find out more about me & feel free to connect with me here:
+## Find out more about me & feel free to connect with me here:
 
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-globalkonvict-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/globalkonvict/)](https://www.linkedin.com/in/globalkonvict/)
 [![Instagram Badge](https://img.shields.io/badge/-globalkonvict-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/globalkonvict/)](https://instagram.com/globalkonvict)
-[![Youtube Badge](https://img.shields.io/badge/-globalkonvict-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Youtube Badge](https://img.shields.io/badge/-globalkonvict-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCucVKfoj5IqzbCCnButhwpg)](https://www.youtube.com/channel/UCucVKfoj5IqzbCCnButhwpg)
 [![Medium Badge](https://img.shields.io/badge/-@globalkonvict-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://globalkonvict.medium.com/)](https://globalkonvict.medium.com/)
 [![Twitter Badge](https://img.shields.io/badge/-globalkonvict-1DA1F2?style=flat-square&logo=Twitter&logoColor=FFFFFFlink=https://twitter.com/globalkonvict)](https://twitter.com/globalkonvict)
+[![dev.to Badge](https://img.shields.io/badge/-globalkonvict-1DA1F2?style=flat-square&logo=Twitter&logoColor=FFFFFFlink=https://dev.to/globalkonvict)](https://dev.to/globalkonvict)
 
 ## ⚡ Technologies
 
@@ -54,6 +55,8 @@ During my college years and even before that since 2017, I also continuously lea
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign)
 ![MUI](https://img.shields.io/badge/-MUI-757575?style=flat-square&logo=mui)
+![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
+![Tailwind css](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss)
 
 ### Database and Storage
 
@@ -71,8 +74,10 @@ During my college years and even before that since 2017, I also continuously lea
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 
-### Tools (Code editors, Version control & Repo Hosting)
+### Tools & Environment (Code editors, Version control & Repo Hosting)
 
+![Windows OS](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![Linux OS](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode)
 ![Arduino](https://img.shields.io/badge/-Arduino-darkblue?style=flat-square&logo=arduino)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -86,6 +91,8 @@ During my college years and even before that since 2017, I also continuously lea
 
 ![IoT](https://img.shields.io/badge/-IoT-4285F4?style=flat-square&logo=esphome)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![ESP32](https://img.shields.io/badge/-ESP32-4285F4?style=flat-square&logo=esphome)
+![ESP2628](https://img.shields.io/badge/-ESP8266-C51A4A?style=flat-square&logo=esphome)
 
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) -->
 <!-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) -->

@@ -2,7 +2,7 @@
 
 ---
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/globalkonvict/globalkonvict/blob/master/devcard.svg" width="400" alt="Sarthak Dwivedi's Dev Card"/></a>
+<img src="https://github.com/globalkonvict/globalkonvict/blob/main/devcard.svg" width="400" alt="Sarthak Dwivedi's Dev Card"/>
 
 I am `Sarthak Dwivedi` aka `globalkonvict`, I have an engineering degree in electronics where I usually focused primarily on assembly language and programming low level hardwares in assembly and C language, and IoT projects. In college quite a lot of time spent on understanding embedded systems and how the hardwares actually works, such as Ram, Rom, and CPU. This helped me understand a certain low level stuff that are not well understood by most programmers, although not necessary but they can be very helpful in understanding many complex topics of computer science in depth.
 

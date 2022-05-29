@@ -1,4 +1,5 @@
 <img src="https://github.com/globalkonvict/globalkonvict/blob/main/devcard.svg" width="400" alt="Sarthak Dwivedi's Dev Card"/>
+
 ## Happy seeing you my name is Sarthak (user: _globalkonvict_) Here! <img src="https://raw.githubusercontent.com/globalkonvict/globalkonvict/master/wave.gif" width="30px">
 
 ---
